@@ -54,6 +54,10 @@ https://github.com/kpfuse/pr552/blob/main/cpp_lab02.pdf </br>
 
 ## Ознакомительная практика ##
 
-Задание 1 - дедлайн 22.09.2025
+## Задание 2 - дедлайн 03.11.2025 ##
+https://github.com/kpfuse/pr552/blob/main/pract02.pdf </br>
+Куда сдавать: https://classroom.github.com/a/wM7gRLgR 
+
+## Задание 1 - дедлайн 22.09.2025 ##
 
 Куда сдавать: https://classroom.github.com/a/XjzD99lR
