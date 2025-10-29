@@ -3,6 +3,13 @@
 ## Основы программирования на C++ (лабораторные работы) ##
  </br>
  
+ ### Лабораторная работа 09 (дедлайн 07.11.2025) ###
+
+задание: https://github.com/kpfuse/pr552/blob/main/cpp_lab09_%D1%80%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F1.pdf </br>
+ </br>
+куда сдать: https://classroom.github.com/a/AA9G5i9g 
+ </br>
+ 
  ### Лабораторная работа 08 (дедлайн 31.10.2025) ###
 
 задание: https://github.com/kpfuse/pr552/blob/main/cpp_lab08_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B_%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D1%8B.pdf </br>
