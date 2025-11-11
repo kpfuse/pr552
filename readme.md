@@ -8,7 +8,7 @@
 задание: https://github.com/kpfuse/pr552/blob/main/cpp_lab11_string.pdf </br>
  </br>
 куда сдать:  https://classroom.github.com/a/xreXw6Kv
- </br>
+ </br> индивидуальные - туда же </br> 
  
  ### Лабораторная работа 10 (дедлайн 14.11.2025) ###
 
