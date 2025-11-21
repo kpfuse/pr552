@@ -7,7 +7,7 @@
 
 задание: https://github.com/kpfuse/pr552/blob/main/cpp_lab12_fstream.pdf </br>
  </br>
-куда сдать:  </br> 
+куда сдать: https://classroom.github.com/a/5GUJvhFB </br> 
  
  
  ### Лабораторная работа 11 (дедлайн 19.11.2025) ###
