@@ -7,7 +7,7 @@
 
 задание: https://github.com/kpfuse/pr552/blob/main/cpp_lab13_struct_ind.pdf </br>
  </br>
-куда сдать:  </br> 
+куда сдать: https://classroom.github.com/a/CBpT_xce  </br> 
 
 ### Лабораторная работа 12 (дедлайн 21.11.2025) ###
 
