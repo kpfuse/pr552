@@ -103,6 +103,10 @@ https://github.com/kpfuse/pr552/blob/main/cpp_lab02.pdf </br>
 
 ## Ознакомительная практика ##
 
+## Задание 3 - дедлайн 24.12.2025 ##
+ </br>
+Куда сдавать: https://classroom.github.com/a/gyJyRJ9c
+
 ## Задание 2 - дедлайн 03.11.2025 ##
 https://github.com/kpfuse/pr552/blob/main/pract02.pdf </br>
 Куда сдавать: https://classroom.github.com/a/wM7gRLgR 
