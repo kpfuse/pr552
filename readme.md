@@ -3,6 +3,11 @@
 ## Основы программирования на C++ (лабораторные работы) ##
  </br>
 
+### Лабораторная работа 16 (дедлайн 12.12.2025) ###
+
+задание: https://github.com/kpfuse/pr552/blob/main/cpp_lab16_classes_rational_operators_Peson_Point2d.pdf </br> 
+куда сдать:  </br> 
+
  ### Лабораторная работа 15 (дедлайн 10.12.2025) ###
 
 задание: https://github.com/kpfuse/pr552/blob/main/cpp_lab15_class_rational01.pdf</br> 
